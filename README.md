@@ -1,3 +1,3 @@
 # gitxuexi
 git studying
-Creating a new branch id quick AND simple.
+Creating a new branch id quick & simple.
