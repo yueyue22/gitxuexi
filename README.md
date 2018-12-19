@@ -1,5 +1,6 @@
 # gitxuexi
 git studying
+git is a free software.
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
 
